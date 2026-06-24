@@ -330,6 +330,14 @@ const defaultWebsites: WebsiteInput[] = [
     status: 'approved',
   },
   {
+    title: 'Remio',
+    url: 'https://remio.ai/',
+    description: '本地优先的 AI memory 与个人知识库桌面应用，支持多格式解析、本地索引和向量检索。',
+    category_slug: 'ai-tools',
+    thumbnail: 'https://remio.ai/favicon.ico',
+    status: 'approved',
+  },
+  {
     title: 'Descript',
     url: 'https://www.descript.com',
     description: '面向播客和视频创作者的一体化音视频编辑与配音 AI 工具。',
